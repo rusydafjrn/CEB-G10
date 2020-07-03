@@ -38,6 +38,7 @@ a {
 .header-logo {
   float: left;
   font-size: 32px;
+  line-height: 75px;
   padding: 20px 10px;
 }
 
@@ -92,6 +93,7 @@ a {
 .contents {
   height: 800 px;
   padding: 50px;
+  margin-bottom: 100px;
 }
 
 .section-title {
@@ -114,7 +116,7 @@ a {
 
 .contact-form {
   padding: 100px 50px;
-  margin-top: 200px
+  margin-top: 100px
 }
 
 
@@ -204,11 +206,7 @@ input, textarea {
   float: center;
   width : 100%;
   }
-  
-  .contact-form{
-    margin-top: 100px;
-  }
-  
+      
   .footer-list li {
     display: none;
   }
